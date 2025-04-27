@@ -62,8 +62,7 @@ public class Encap2 {
             System.out.print("Enter Choice: ");
             int choice = scanz.nextInt();
 
-            switch (choice) {
-                
+            switch (choice) {  
                 case 1:
                     System.out.print("Enter amount: ");
                     double depositAmount = scanz.nextDouble();
